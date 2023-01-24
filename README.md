@@ -1,6 +1,6 @@
-# Voting-System-Blockchain-Ethereum
+# Blockchain Based Voting System
 
-This project is developed for the VAC Block Chain and Cryptocurrency course.
+Blockchain has a lot of applications in today's well as it promises the utmost security for transactions or management systems. For the Value Added Course- Blockchain and cryptocurrencies, the following project was created as an attempt to showcase the knowledge learnt through the course. It is a voting system using Ethereum. 
 The smart contract is written in solidity, as it has been supported by ETH.
 
 ### Description:
